@@ -12,7 +12,6 @@ CNCF Delhi has hosted a full-day workshop at Microsoft Gurugram, led by six diff
     * Event Page: https://community.cncf.io/events/details/cncf-new-delhi-presents-kubernetes-essentials-back-to-basics/
     * Recordings: https://www.youtube.com/playlist?list=PLEvTAmQs3uDRJHmax4D7i0-zRJcXD28B6
   
-## Agenda
 # Event Agenda
 
 | Time     | Topic                                      | Speaker          | Description                                                                                             |
