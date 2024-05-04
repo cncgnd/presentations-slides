@@ -1,7 +1,7 @@
 # Kubernetes essentials: Back to Basics 
 
 ## Event Details
-* **Event Name:** Kubernetes Essentials: Back to Basics 
+* **Event Name:** Kubernetes Essentials: Back to Basics
 * **Event Date:** 20-04-2024
 * **Event Description:** [CNCF New Delhi](https://community.cncf.io/new-delhi/) hosted a full-day workshop at Microsoft Gurugram, led by six different speakers. This event offered practical insights and skills essential for navigating Kubernetes. The audience learned from fundamentals to advanced concepts of Kubernetes, gaining hands-on experience in deploying, managing, and scaling applications. It was a day of meaningful learning and community engagement, tailored for IT professionals, developers, DevOps engineers, and students.
 * **Organizers:** 
@@ -11,7 +11,7 @@
 * **Volunteers:**
 * **Links:** 
     * Event Page: https://community.cncf.io/events/details/cncf-new-delhi-presents-kubernetes-essentials-back-to-basics/
-    * Recordings: https://www.youtube.com/playlist?list=PLEvTAmQs3uDRJHmax4D7i0-zRJcXD28B6
+    * Recordings: https://youtube.com/playlist?list=PLEvTAmQs3uDRJHmax4D7i0-zRJcXD28B6&feature=shared
   
 # Event Agenda
 
