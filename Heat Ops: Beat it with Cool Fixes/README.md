@@ -12,7 +12,7 @@
 - **Volunteers:**
 - **Links:**
   - Event Page: https://community.cncf.io/events/details/cncf-new-delhi-presents-heat-ops/
-  - Recordings:
+  - Recordings: https://www.youtube.com/playlist?list=PLEvTAmQs3uDTSmOKKcPG4UEk3lraQ35Rr
 
 # Event Agenda
 
